@@ -1,0 +1,35 @@
+img{
+    width: auto;
+    height: 200px;
+}
+
+
+.number {
+    color: red;
+    font-size: 30px;
+}
+
+
+.Ingredients , .Steps{
+    background-color: black; 
+    font-size: 15px;
+}
+.Ingredients{
+    color: greenyellow;
+}
+.number.two{
+    font-size: 20px;
+}
+
+.Steps{
+
+    color: aquamarine;
+}
+
+.number.three{
+    font-size: 18px;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
